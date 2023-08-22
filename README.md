@@ -10,7 +10,7 @@ The dataset directory is empty at the first time. Once the codes are runned, dat
 - PPI
 
 ```php
-python ppi.main.py 
+python ppi_main.py 
 ```
 
 - Other datasets
